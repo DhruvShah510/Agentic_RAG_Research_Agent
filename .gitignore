@@ -2,4 +2,6 @@ __pycache__/
 .env
 *.db
 *.log
-venv/
+agentic_rag/
+test.py
+Dhruv_Shah_AI-ML_Resume_latest.pdf
