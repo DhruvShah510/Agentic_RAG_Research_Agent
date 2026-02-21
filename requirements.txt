@@ -7,3 +7,4 @@ sentence-transformers
 faiss-cpu 
 pypdf 
 python-dotenv
+langchain-community
